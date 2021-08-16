@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<artifactId>encryption</artifactId>
-	<version>2021.06.19-SNAPSHOT</version>
+	<version>2021.06.19</version>
 	
 	<parent>
 		<groupId>me.neo_0815</groupId>
 		<artifactId>parent</artifactId>
-		<version>1.0</version>
+		<version>2021.08.16</version>
 	</parent>
 	
 	<repositories>
